@@ -5,7 +5,7 @@ Date: 01/31/2024
 
 # My Journey in the Computer World so far
 1. Started from studying developing and managing a relational database by using SQL
-   ![Microsoft SQL Server Logo](https://images.app.goo.gl/Vz1M2Te5UyrTkQH4A))
+   ![Microsoft SQL Server Logo](https://images.app.goo.gl/Vz1M2Te5UyrTkQH4A)
    
 ## What skills did i acquire from SQL?
 
