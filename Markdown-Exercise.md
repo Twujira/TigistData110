@@ -5,7 +5,7 @@ Date: 01/31/2024
 
 # My Journey in the Computer World so far
 1. Started from studying developing and managing a relational database by using SQL
-   ![Alt Text](https://images.app.goo.gl/3scGZngLJqRhs6x17)
+   ![alt text](https://images.app.goo.gl/3scGZngLJqRhs6x17)
    
 ## What skills did i acquire from SQL?
 
@@ -36,8 +36,8 @@ This is what relational database mean. because of both tables have unique identi
   - Security
       - Grant and Deny Roles
   - Maintenance
-     - Backup and disaster recovery
-     - Migration (ETL is one of the ways to complete a migration process)
+     a.  Backup and disaster recovery
+     b.  Migration (ETL is one of the ways to complete a migration process)
 ### What was my next step? 
 # Power BI
 
@@ -52,9 +52,9 @@ Although i covered all this, I failed my first attempt for Microsoft Power BI Da
   ## What's Next?
   In the meantime, i have been taking classes at Montgomery college in an on and off basis. In fall 2023, I officially declared a major and joined the data science program.
   Now, i am adding more skills in my skillset
-  ** R Language **  
-  Python  
-  * Tableau *  
+  - **R Language**  
+  - Python  
+  - *Tableau*  
 
 In addition to these skills, i will have the exposure for machine learning concepts. that motivates me to keep learning and to be a qualified competent in the data world.  
   > Anyone who keeps learning stays young
@@ -65,7 +65,7 @@ In addition to these skills, i will have the exposure for machine learning conce
 
 This is a sentence with a footnote[^1].
 
-[^1]: Here is the text of the footnote.
+
 
 
 
