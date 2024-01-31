@@ -1,5 +1,5 @@
-Author: Tigist Wujira
-Date: 01/31/2024
+- Author: Tigist Wujira
+- Date: 01/31/2024
 
 `Hello World`
 
