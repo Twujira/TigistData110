@@ -5,7 +5,7 @@ Date: 01/31/2024
 
 # My Journey in the Computer World so far
 1. Started from studying developing and managing a relational database by using SQL
-   ![alt text](https://images.app.goo.gl/3scGZngLJqRhs6x17)
+   ![alt text]("C:/Users/tigis/Desktop/MC/Spring2024/Data/Data110/Screenshot/MssqlLogo.png")
    
 ## What skills did i acquire from SQL?
 
@@ -38,8 +38,8 @@ This is what relational database mean. because of both tables have unique identi
   - Security
       - Grant and Deny Roles
   - Maintenance
-     a. Backup and disaster recovery
-     b. Migration (ETL is one of the ways to complete a migration process)
+     - Backup and disaster recovery
+     - Migration (ETL is one of the ways to complete a migration process)
 ### What was my next step? 
 # Power BI
 
