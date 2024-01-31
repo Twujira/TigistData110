@@ -5,7 +5,7 @@ Date: 01/31/2024
 
 # My Journey in the Computer World so far
 1. Started from studying developing and managing a relational database by using SQL
-   ![alt text]("C:/Users/tigis/Desktop/MC/Spring2024/Data/Data110/Screenshot/MssqlLogo.png")
+   ![Microsoft SQL Server Logo]("C:/Users/tigis/Desktop/MC/Spring2024/Data/Data110/Screenshot/MssqlLogo.png")
    
 ## What skills did i acquire from SQL?
 
