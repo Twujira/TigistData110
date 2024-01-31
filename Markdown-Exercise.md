@@ -14,7 +14,7 @@ Date: 01/31/2024
     -  views
     - stored procedure
     - functions
-   -
+-
 Example: Tables
 - Student Table
     
@@ -38,8 +38,8 @@ This is what relational database mean. because of both tables have unique identi
   - Security
       - Grant and Deny Roles
   - Maintenance
-     a.  Backup and disaster recovery
-     b.  Migration (ETL is one of the ways to complete a migration process)
+     a. Backup and disaster recovery
+     b. Migration (ETL is one of the ways to complete a migration process)
 ### What was my next step? 
 # Power BI
 
