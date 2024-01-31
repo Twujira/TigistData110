@@ -16,14 +16,16 @@ Date: 01/31/2024
     - functions
    -
 Example: Tables
-- Student Table  
-        | StudentID | StudentName | CourseID |
-        | --- | --- | --- |
-        | 0123 | Tigist | 0345 |
-        | 0124 | Wujira | 0345 |
-        | 0125 | John | 0346 |
+- Student Table
+    
+| StudentID | StudentName | CourseID |
+| --- | --- | --- |
+| 0123 | Tigist | 0345 |
+| 0124 | Wujira | 0345 |
+| 0125 | John | 0346 |
 
-- Courses Table  
+- Courses Table
+   
   | CourseID | StudentID | CourseName |
   | --- | --- | --- |
   | 0345 | 0123 | Data110 |
