@@ -47,7 +47,7 @@ Power BI has four parts
 - Preparing the data
 - Modeling the data
 - Visualize and analyze the data
-- Deploy and maintain items.
+- Deploying and maintaining items.
 -
 Although i covered all this, I failed my first attempt for Microsoft Power BI Data Analyst PL-300 exam. Hopefully, i will pass at my second attempt.
 
