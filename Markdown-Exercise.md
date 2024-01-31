@@ -5,7 +5,7 @@ Date: 01/31/2024
 
 # My Journey in the Computer World so far
 1. Started from studying developing and managing a relational database by using SQL
-   ![Alt Text](https://images.app.goo.gl/bWb2dZ7EmYuN99zi6)
+   ![Alt Text](https://images.app.goo.gl/3scGZngLJqRhs6x17)
    
 ## What skills did i acquire from SQL?
 
@@ -14,6 +14,7 @@ Date: 01/31/2024
     -  views
     - stored procedure
     - functions
+   -
 Example: Tables
 Student Table
         | StudentID | StudentName | CourseID |
@@ -45,6 +46,7 @@ Power BI has four parts
 - Modeling the data
 - Visualize and analyze the data
 - Deploy and maintain items.
+-
 Although i covered all this, I failed my first attempt for Microsoft Power BI Data Analyst PL-300 exam. Hopefully, i will pass at my second attempt.
 
   ## What's Next?
@@ -59,7 +61,12 @@ In addition to these skills, i will have the exposure for machine learning conce
 
 [A helpful YouTube Video Guide for How to Write MarkDown](https://www.youtube.com/watch?v=eJojC3lSkwg)
 
-[^1]: Completing my associate degree by the end of 2024 is one of my new year resolutions.
+`[^1]`: Completing my associate degree by the end of 2024 is one of my new year resolutions.
+
+This is a sentence with a footnote[^1].
+
+[^1]: Here is the text of the footnote.
+
 
 
 
