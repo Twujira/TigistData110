@@ -24,6 +24,7 @@ Date: 01/31/2024
 
   Course Table
   | CourseID | StudentID | CourseName |
+  | --- | --- | --- |
   | 0345 | 0123 | Data110 |
   | 0346 | 0125 | Algebra |
   | 0345 | 0124 | Data110 |
