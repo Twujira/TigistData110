@@ -5,7 +5,7 @@ Date: 01/31/2024
 
 # My Journey in the Computer World so far
 1. Started from studying developing and managing a relational database by using SQL
-   ![alt text](https://www.bing.com/images/search?view=detailV2&ccid=sluuRP9R&id=86D20ACC983CE96D41A45A42075EFA96BFA1975F&thid=OIP.sluuRP9RbH3MPqzbFNLEmQHaF_&mediaurl=https%3a%2f%2fclipart.info%2fimages%2fccovers%2f1499955337microsoft-sql-server-logo-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b25bae44ff516c7dcc3eacdb14d2c499%3frik%3dX5ehv5b6XgdCWg%26pid%3dImgRaw%26r%3d0&exph=2021&expw=2500&q=microsoft+sql+logo&simid=608034315997421551&FORM=IRPRST&ck=DBBFC65EA92EB23BD1FD85D7C481DF19&selectedIndex=0&itb=1&ajaxhist=0&ajaxserp=0)
+   ![alt text]([https://www.bing.com/images/search?view=detailV2&ccid=sluuRP9R&id=86D20ACC983CE96D41A45A42075EFA96BFA1975F&thid=OIP.sluuRP9RbH3MPqzbFNLEmQHaF_&mediaurl=https%3a%2f%2fclipart.info%2fimages%2fccovers%2f1499955337microsoft-sql-server-logo-png.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.b25bae44ff516c7dcc3eacdb14d2c499%3frik%3dX5ehv5b6XgdCWg%26pid%3dImgRaw%26r%3d0&exph=2021&expw=2500&q=microsoft+sql+logo&simid=608034315997421551&FORM=IRPRST&ck=DBBFC65EA92EB23BD1FD85D7C481DF19&selectedIndex=0&itb=1&ajaxhist=0&ajaxserp=0](https://images.app.goo.gl/bWb2dZ7EmYuN99zi6))
    
 ## What skills did i acquire from SQL?
 
@@ -14,8 +14,8 @@ Date: 01/31/2024
     -  views
     - stored procedure
     - functions
-      Example: Tables
-  Stuent Table
+Example: Tables
+Student Table
         | StudentID | StudentName | CourseID |
         | --- | --- | --- |
         | 0123 | Tigist | 0345 |
@@ -44,8 +44,8 @@ Power BI has four parts
 - Preparing the data
 - Modeling the data
 - Visualize and analyze the data
-- Deploy and maintain items
-  Although i covered all this, I failed my first attempt for Microsoft Power BI Data Analyst PL-300 exam. Hopefully, i will pass at my second attempt.
+- Deploy and maintain items.
+Although i covered all this, I failed my first attempt for Microsoft Power BI Data Analyst PL-300 exam. Hopefully, i will pass at my second attempt.
 
   ## What's Next?
   In the meantime, i have been taking classes at Montgomery college in an on and off basis. In fall 2023, I officially declared a major and joined the data science program.
