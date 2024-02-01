@@ -36,7 +36,7 @@ This is what relational database mean. because of both tables have unique identi
   
 2. Database administration
   - Security
-      - Grant and Deny Roles
+      - Grant, Deny, or Revoke user accesses and roles
   - Maintenance
      - Backup and disaster recovery
      - Migration (ETL is one of the ways to complete a migration process)
